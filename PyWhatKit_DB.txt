@@ -1,0 +1,10 @@
+Date: 29/11/2025
+Time: 14:2
+Phone Number: +919801975893
+Message: Hello sir, I'm sending this message using automation using pywhatkit and python!
+--------------------
+Date: 29/11/2025
+Time: 14:6
+Phone Number: +919801975893
+Message: Hello sir, I'm sending this message using automation using pywhatkit and python!
+--------------------
